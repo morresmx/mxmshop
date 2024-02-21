@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.product-pp {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 95%;
+  padding-top: 10%;
+  margin: auto;
+}
+
+.product-pp img {
+  max-width: 500px;
+}
+
+.description-pp {
+  flex: 1;
+  margin: 5% 0 auto 5%;
+}
